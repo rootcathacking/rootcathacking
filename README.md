@@ -1,7 +1,7 @@
 ### Hi, I am rootcat, a redteamer, cloudhacker and smol nerd.    
 You will find mostly aws hacking stuff on my git.    
-On my blog -> www.rootcat.de/blog you find broader hacking topics.   
-On my twitter -> www.twitter.com/rootcathacking you find also hacker stuff and a bunch of cat memes.
+On my blog -> www.rootcat.de/blog you find broader hacking topics, sparsly updated.   
+You find my socials, twitter/X etc via -> @rootcathacking, where I post hacker stuff and a bunch of unhinged cat memes.
           
                  
 <div id="header" align="center">
